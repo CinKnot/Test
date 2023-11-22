@@ -1,0 +1,1075 @@
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 10.0.2.2: Destination net unreachable.
+Reply from 10.0.2.2: Destination net unreachable.
+Reply from 10.0.2.2: Destination net unreachable.
+Reply from 10.0.2.2: Destination net unreachable.
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.160: Destination host unreachable.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 1, Lost = 3 (75% loss),
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=2ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 2ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 1ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=3ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 3ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=4ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=4ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 4ms, Average = 2ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 1ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=10ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=6ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=5ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1ms, Maximum = 10ms, Average = 5ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=5ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 5ms, Average = 1ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 1ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=4ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 4ms, Average = 1ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 1ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=9ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 9ms, Average = 2ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 1ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=4ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 4ms, Average = 1ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=5ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 5ms, Average = 1ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 1ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 1ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 1ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 1ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 1ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=8ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 8ms, Average = 2ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=7ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=14ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=4ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 14ms, Average = 6ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 1ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 10.0.2.2: Destination net unreachable.
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 1, Lost = 3 (75% loss),
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 1ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 1ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 1ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time=1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 1ms, Average = 0ms
+
+Pinging 192.168.56.150 with 32 bytes of data:
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+Reply from 192.168.56.150: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.56.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
